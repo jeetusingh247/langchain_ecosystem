@@ -1,0 +1,9 @@
+langchain
+google-generativeai
+langgraph
+sqlalchemy
+fastapi
+uvicorn
+pydantic
+python-dotenv
+rich
